@@ -1,0 +1,12 @@
+[package]
+name = "macros-rs"
+version = "0.1.0"
+edition = "2021"
+authors = ["Issam Hakimi aka Killix <me.social@iss.am>"]
+publish = false
+
+[lib]
+name = "macros_rs"
+path = "src/lib.rs"
+
+[dependencies]
